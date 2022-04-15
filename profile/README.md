@@ -9,6 +9,10 @@
 🍿 Fun facts - Stay tuned for more (or do it yourself...) :sunglasses: \
 🧙 Remember, use it at your own risks... 
 
+![CyberMind-FR's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberMind-FR&count_private=true&show_icons=true&theme=gotham)
+
+![CyberMind-FR's GitHub langs stats](https://github-readme-stats.vercel.app/api/top-langs?username=CyberMind-FR&count_private=true&show_icons=true&theme=gotham)
+
 ![erdoukki's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdoukki&count_private=true&show_icons=true&theme=gotham)
 
 ![erdoukki's GitHub langs stats](https://github-readme-stats.vercel.app/api/top-langs?username=erdoukki&count_private=true&show_icons=true&theme=gotham)
